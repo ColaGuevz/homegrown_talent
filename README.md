@@ -32,10 +32,6 @@ This website does not provide any API functionality.
 
 This is a static website and does not have any open contribution opportunities at this time.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Testing
 
 This website has not been formally tested. Users are encouraged to report any issues or bugs they encounter.
